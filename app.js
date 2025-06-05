@@ -12,7 +12,7 @@ render();
 function createListElement(value) {
   return `
     <li
-          class="list-group-item d-flex justify-content-between align-items-center"
+          class="list-group-item d-flex justify-content-between align-items-center mb-2"
         >
           <span>${value}</span>
           <span>
